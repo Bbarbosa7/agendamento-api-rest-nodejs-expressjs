@@ -1,0 +1,22 @@
+{
+  "name": "rest-api-express",
+  "version": "1.0.0",
+  "description": "API de agendamento de consultas utilizando o Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bbarbosa7/nodejs-api-rest-express.git"
+  },
+  "author": "Brayann W. F. Barbosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bbarbosa7/nodejs-api-rest-express/issues"
+  },
+  "homepage": "https://github.com/Bbarbosa7/nodejs-api-rest-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
